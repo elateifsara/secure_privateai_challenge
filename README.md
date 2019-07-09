@@ -8,11 +8,14 @@ Notebooks for Secure and Private AI Challenge course.
 ### Day 2
     - Completed the 4th lesson
 ### Day 3
-    - Completed the 5th lesson but didn't do the final project
+    - Completed the 5th lesson
 ### Day 4
-    - I finished going through the final project in lesson 5
+    - Finished the 6th lesson but didn't do the final project (will concentrate on it tomorrow)
 ### Day 5
-    - Finished the 6th lesson but didn't do the final project (will concentrate on it tomorrow).
+    - I finished going through the final project in lesson 5
+    Some interesting links:
+        - https://github.com/dimun/pate_torch/blob/master/PATE.ipynb
+        - https://towardsdatascience.com/understanding-differential-privacy-85ce191e198a?sk=3f301aff515ee13e485908881ddb22b6
 ### Day 6
     - Completed the first 5 parts of Lesson 7 about Federated Learning.
 ### Day 7
