@@ -19,7 +19,8 @@ Notebooks for Secure and Private AI Challenge course.
     - Completed lesson 7th lesson
     - Working on how to use chatbot for a medical case
     - Got tagged for the 1st game of #wmn_who_code channel it was fun responding
-    - Got tagged for the 1st game of #random on what addected me the most during the challenge. It was the amazing effort and sharing spirit of the community
+    - Got tagged for the 1st game of #random on what addected me the most during the challenge. 
+    It was the amazing effort and sharing spirit of the community
 ### Day 8
     Lesson 8: Securing Federated Learning
         - Completed 8.1 and 8.2 parts
