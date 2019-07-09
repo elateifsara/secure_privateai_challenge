@@ -12,7 +12,7 @@ Notebooks for Secure and Private AI Challenge course.
 ### Day 7
 ### Day 8
     Lesson 8: Securing Federated Learning
-    - Completed 8.1 and 8.2 parts
+        - Completed 8.1 and 8.2 parts
 
 ## Dependencies
 
