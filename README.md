@@ -30,7 +30,8 @@ Some interesting links:
         - Completed 8.1 and 8.2 parts
 ### Day 9
     - Completed lesson 8
-    - Documenting myself on different machine learning conversational algorithms 
+    - Reading on machine learning conversations processing algorithms: 
+   [Conversational AI](https://towardsdatascience.com/conversational-ai-design-build-a-contextual-ai-assistant-61c73780d10)
 
 ## Dependencies
 
