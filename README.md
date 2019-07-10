@@ -28,6 +28,9 @@ Some interesting links:
 ### Day 8
     Lesson 8: Securing Federated Learning
         - Completed 8.1 and 8.2 parts
+### Day 9
+    - Completed lesson 8
+    - Documenting myself on different machine learning conversational algorithms 
 
 ## Dependencies
 
