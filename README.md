@@ -34,6 +34,9 @@ Some interesting links:
    [Conversational AI](https://towardsdatascience.com/conversational-ai-design-build-a-contextual-ai-assistant-61c73780d10)
 ### Day 10
     - Finished the 5 first parts of lesson 9
+### Day 11
+    - Finished the 9th lesson : Encrypted Deep Learning
+    - Working on the self assessment part of the chatbot project
 
 ## Dependencies
 
