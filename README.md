@@ -37,7 +37,14 @@ Some interesting links:
 ### Day 11
     - Finished the 9th lesson : Encrypted Deep Learning
     - Working on the self assessment part of the chatbot project
-
+    - Found some books to improve my python skills
+### Day 12
+    - Read the slide description for the Shirts project provided by the project group
+    - Searched for videos about GAN for style transfer
+    - Working on revamping my Resume 
+    - Searched for tips to (revamp my cover letter)[https://resumegenius.com/how-to-write-a-cover-letter]
+[GAN for style transfer](https://www.youtube.com/watch?v=MgdAe-T8obE)
+[Revamp your cover letter](https://resumegenius.com/how-to-write-a-cover-letter)
 ## Dependencies
 
 To run these notebooks you'll need to install Python 3.6, PySyft, Numpy, PyTorch 1.0, and Jupyter Notebooks. The easiest way for all of this is to create a conda environment:
