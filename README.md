@@ -42,8 +42,8 @@ Some interesting links:
     - Read the slide description for the Shirts project provided by the project group
     - Searched for videos about GAN for style transfer
     - Working on revamping my Resume 
-    - Searched for tips to (revamp my cover letter)[https://resumegenius.com/how-to-write-a-cover-letter]
-[GAN for style transfer](https://www.youtube.com/watch?v=MgdAe-T8obE)
+    - Searched for tips to revamp my cover letter
+[GAN for style transfer](https://www.youtube.com/watch?v=MgdAe-T8obE)  
 [Revamp your cover letter](https://resumegenius.com/how-to-write-a-cover-letter)
 ## Dependencies
 
