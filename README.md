@@ -45,6 +45,10 @@ Some interesting links:
     - Searched for tips to revamp my cover letter
 [GAN for style transfer](https://www.youtube.com/watch?v=MgdAe-T8obE)  
 [Revamp your cover letter](https://resumegenius.com/how-to-write-a-cover-letter)
+### Day 13
+    - Has been working the whole day on crafting a good cover letter (it's harder than it seems) 
+    - Reading about the interview process for a Machine learning Engineer. :hero: Seems like this day of mine was a career's day. I will get back to deep learning tomorrow.
+
 ## Dependencies
 
 To run these notebooks you'll need to install Python 3.6, PySyft, Numpy, PyTorch 1.0, and Jupyter Notebooks. The easiest way for all of this is to create a conda environment:
