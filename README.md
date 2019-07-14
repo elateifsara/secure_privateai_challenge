@@ -47,7 +47,8 @@ Some interesting links:
 [Revamp your cover letter](https://resumegenius.com/how-to-write-a-cover-letter)
 ### Day 13
     - Has been working the whole day on crafting a good cover letter (it's harder than it seems) 
-    - Reading about the interview process for a Machine learning Engineer. :hero: Seems like this day of mine was a career's day. I will get back to deep learning tomorrow.
+    - Reading about the interview process for a Machine learning Engineer.
+[Craft your Cover Letter](https://www.udacity.com/course/craft-your-cover-letter--ud244)
 
 ## Dependencies
 
