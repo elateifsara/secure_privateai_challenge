@@ -50,8 +50,10 @@ Some interesting links:
     - Reading about the interview process for a Machine learning Engineer.
 [Craft your Cover Letter](https://www.udacity.com/course/craft-your-cover-letter--ud244)
 ### Day 14
-    - Checked the interview https://www.youtube.com/watch?v=9D_jxOMZmRI , awesome input.
-    - Gone through the video from #sg_project-t-shirt https://www.youtube.com/watch?v=8_vhbNpyIk4&feature=youtu.be&fbclid=IwAR3yvjZkKd_DzAEsz3kehNmmYQh8zAledHk0AbG_aJX8vtRmF-C58j-Upho thank you team.
+    - Checked the [Webinar] AMA with Robert Wagner | Secure & Private AI Challenge Scholarships , awesome input.
+    - Gone through the video from #sg_project-t-shirt Secure & Private AI Challenge - 60 Days of Udacity - Project T-Shirt, thank you team.
+[Webinar](https://www.youtube.com/watch?v=9D_jxOMZmRI)
+[Secure & Private AI Challenge - 60 Days of Udacity - Project T-Shirt](https://www.youtube.com/watch?v=8_vhbNpyIk4&feature=youtu.be&fbclid=IwAR3yvjZkKd_DzAEsz3kehNmmYQh8zAledHk0AbG_aJX8vtRmF-C58j-Upho)
 
 ## Dependencies
 
