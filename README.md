@@ -52,7 +52,7 @@ Some interesting links:
 ### Day 14
     - Checked the [Webinar] AMA with Robert Wagner | Secure & Private AI Challenge Scholarships , awesome input.
     - Gone through the video from #sg_project-t-shirt Secure & Private AI Challenge - 60 Days of Udacity - Project T-Shirt, thank you team.
-[Webinar](https://www.youtube.com/watch?v=9D_jxOMZmRI)
+[Webinar](https://www.youtube.com/watch?v=9D_jxOMZmRI)  
 [Secure & Private AI Challenge - 60 Days of Udacity - Project T-Shirt](https://www.youtube.com/watch?v=8_vhbNpyIk4&feature=youtu.be&fbclid=IwAR3yvjZkKd_DzAEsz3kehNmmYQh8zAledHk0AbG_aJX8vtRmF-C58j-Upho)
 
 ## Dependencies
