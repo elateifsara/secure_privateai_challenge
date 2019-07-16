@@ -54,7 +54,11 @@ Some interesting links:
     - Gone through the video from #sg_project-t-shirt Secure & Private AI Challenge - 60 Days of Udacity - Project T-Shirt, thank you team.
 [Webinar](https://www.youtube.com/watch?v=9D_jxOMZmRI)  
 [Secure & Private AI Challenge - 60 Days of Udacity - Project T-Shirt](https://www.youtube.com/watch?v=8_vhbNpyIk4&feature=youtu.be&fbclid=IwAR3yvjZkKd_DzAEsz3kehNmmYQh8zAledHk0AbG_aJX8vtRmF-C58j-Upho)
-
+### Day 15
+    - Watched videos about Logistic Regression, cost function and gradient descent (revising the basics) of deep learning.
+    - Trying to make the OpenAI GPT2 train
+    - Still trying to wrap my head around GAN (understood a little bit the principal but still trying to understand the code)
+    
 ## Dependencies
 
 To run these notebooks you'll need to install Python 3.6, PySyft, Numpy, PyTorch 1.0, and Jupyter Notebooks. The easiest way for all of this is to create a conda environment:
