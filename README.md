@@ -58,7 +58,12 @@ Some interesting links:
     - Watched videos about Logistic Regression, cost function and gradient descent (revising the basics) of deep learning.
     - Trying to make the OpenAI GPT2 train
     - Still trying to wrap my head around GAN (understood a little bit the principal but still trying to understand the code)
-    
+### Day 16
+    - Working on EDA for NLP (1)
+    - Still trying to understand the GAN through this video (2) 
+[1](https://towardsdatascience.com/a-complete-exploratory-data-analysis-and-visualization-for-text-data-29fb1b96fb6a)
+[2](https://www.youtube.com/watch?v=MgdAe-T8obE)
+
 ## Dependencies
 
 To run these notebooks you'll need to install Python 3.6, PySyft, Numpy, PyTorch 1.0, and Jupyter Notebooks. The easiest way for all of this is to create a conda environment:
