@@ -63,6 +63,12 @@ Some interesting links:
     - Still trying to understand the GAN through this video (2) 
 [1](https://towardsdatascience.com/a-complete-exploratory-data-analysis-and-visualization-for-text-data-29fb1b96fb6a)
 [2](https://www.youtube.com/watch?v=MgdAe-T8obE)
+### Day 17
+    - Learned about LSA in NLP
+    - Finished EDA for my textual dataset 
+### Day 18
+    - Learned about vectorization what it’s, why we use it and to transform a code from for loops to vectorization for gradient descent and cost function calculations.
+
 
 ## Dependencies
 
@@ -75,4 +81,3 @@ conda install numpy jupyter notebook
 conda install pytorch torchvision -c pytorch
 pip install syft
 ```
-
