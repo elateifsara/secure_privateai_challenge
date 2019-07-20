@@ -68,7 +68,12 @@ Some interesting links:
     - Finished EDA for my textual dataset 
 ### Day 18
     - Learned about vectorization what it’s, why we use it and to transform a code from for loops to vectorization for gradient descent and cost function calculations.
-
+### Day 19
+    - Continued on vectorization: vectorized the whole Gradient descent calculations process
+    - Learned about Broadcasting in python, numpy library
+    - Checked out more on medium articles on chatbot creation and searched for ways to do multi-class classification on NLP tasks
+[1](https://towardsdatascience.com/multi-class-text-classification-with-lstm-1590bee1bd17)  
+[2](https://towardsdatascience.com/multi-class-text-classification-model-comparison-and-selection-5eb066197568)
 
 ## Dependencies
 
