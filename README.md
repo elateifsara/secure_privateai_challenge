@@ -74,7 +74,9 @@ Some interesting links:
     - Checked out more on medium articles on chatbot creation and searched for ways to do multi-class classification on NLP tasks
 Multi-class classification for NLP:  
 [1](https://towardsdatascience.com/multi-class-text-classification-with-lstm-1590bee1bd17)  
-[2](https://towardsdatascience.com/multi-class-text-classification-model-comparison-and-selection-5eb066197568)
+[2](https://towardsdatascience.com/multi-class-text-classification-model-comparison-and-selection-
+### Day 20
+   - Implemented and compared the performance between normal implementation of the gradient descent and loss calculation and the vectorized implementation of them using python.
 
 ## Dependencies
 
