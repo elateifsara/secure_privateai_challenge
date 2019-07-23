@@ -77,6 +77,11 @@ Multi-class classification for NLP:
 [2](https://towardsdatascience.com/multi-class-text-classification-model-comparison-and-selection-5eb066197568)
 ### Day 20
      - Implemented and compared the performance between normal implementation of the gradient descent and loss calculation and the vectorized implementation of them using python.
+### Day 21
+     - Finished notebook of Python basics using numpy from Andrew NG DL course.
+### Day 22
+     - Started the Logistic Regression with a Neural Network mindset notebook from Andrew NG DL course.
+     - I worked on my Style Transfer code trying to find the best combination of style and image to create something beautiful for the shirt style project. 
 
 ## Dependencies
 
