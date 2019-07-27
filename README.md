@@ -82,7 +82,21 @@ Multi-class classification for NLP:
 ### Day 22
      - Started the Logistic Regression with a Neural Network mindset notebook from Andrew NG DL course.
      - I worked on my Style Transfer code trying to find the best combination of style and image to create something beautiful for the shirt style project. 
-
+### Day 24
+     - Added a second lab (after doing it) in my Hands-on ML ppt talk.
+     - I had a recap meeting about the event.
+### Day 25
+      - I had my interview with the Digital School Product about the three months for the position of AI Engineer. Thank you #events_opportunities for sharing that opportunity.
+      - I was asked to add an ML qwiklabs lab to hold a study jam.
+      - I requested access to  ML Intro with the TensorFlow quest.
+      - I did the lab: Creating an Object Detection Application Using TensorFlow 
+[Creating an Object Detection Application Using TensorFlow](https://www.qwiklabs.com/focuses/1823?parent=catalog)
+### Day 26
+      - I added the lab to the ppt
+      - I wrote my first draft of the PTSD Omdena challenge article (I will share it with you when it's out)
+### Day 27
+      - It's finally the events day.  I held the talk and directed the study jam. Please check it out here if interested: shorturl.at/bmrvP
+      
 ## Dependencies
 
 To run these notebooks you'll need to install Python 3.6, PySyft, Numpy, PyTorch 1.0, and Jupyter Notebooks. The easiest way for all of this is to create a conda environment:
