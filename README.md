@@ -103,7 +103,7 @@ Multi-class classification for NLP:
 ### Day 30
       - Has been working the whole day on Style transfer for the #sg_project-t-shirt , if interested please check my ''art'' in the Facebook group album for style shirt
       - Currently working on Creating Models with Amazon SageMaker lab from qwiklabs
-(Creating Models with Amazon SageMaker)[https://www.qwiklabs.com/focuses/3561?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=3019353#]
+[Creating Models with Amazon SageMaker](https://www.qwiklabs.com/focuses/3561?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=3019353#)
       
       
 ## Dependencies
