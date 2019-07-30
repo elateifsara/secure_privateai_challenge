@@ -96,6 +96,15 @@ Multi-class classification for NLP:
       - I wrote my first draft of the PTSD Omdena challenge article (I will share it with you when it's out)
 ### Day 27
       - It's finally the events day.  I held the talk and directed the study jam. Please check it out here if interested: shorturl.at/bmrvP
+### Day 28
+      - Completed the 'Machine Learning with TensorFlow' lab from qwiklabs (https://google.qwiklabs.com/focuses/3391?parent=catalog)
+### Day 29
+      - Working on more examples for shirt style transfer project #sg_project-t-shirt
+### Day 30
+      - Has been working the whole day on Style transfer for the #sg_project-t-shirt , if interested please check my ''art'' in the Facebook group album for style shirt
+      - Currently working on Creating Models with Amazon SageMaker lab from qwiklabs
+(Creating Models with Amazon SageMaker)[https://www.qwiklabs.com/focuses/3561?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=3019353#]
+      
       
 ## Dependencies
 
