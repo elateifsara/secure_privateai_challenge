@@ -104,6 +104,11 @@ Multi-class classification for NLP:
       - Has been working the whole day on Style transfer for the #sg_project-t-shirt , if interested please check my ''art'' in the Facebook group album for style shirt
       - Currently working on Creating Models with Amazon SageMaker lab from qwiklabs
 [Creating Models with Amazon SageMaker](https://www.qwiklabs.com/focuses/3561?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=3019353#)
+### Day 31
+     - Participated in the online Fairygodboss recruiting event, it was a refreshing and first time experience.
+### Day 32
+     - Tried the Multi-class classification tutorial with LSTM on the customer complaint dataset. To implement it using my own dataset.
+[The tutorial](https://towardsdatascience.com/multi-class-text-classification-with-lstm-1590bee1bd17)
       
       
 ## Dependencies
