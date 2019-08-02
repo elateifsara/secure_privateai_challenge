@@ -109,7 +109,11 @@ Multi-class classification for NLP:
 ### Day 32
      - Tried the Multi-class classification tutorial with LSTM on the customer complaint dataset. To implement it using my own dataset.
 [The tutorial](https://towardsdatascience.com/multi-class-text-classification-with-lstm-1590bee1bd17)
-      
+### Day 33
+    - I trained the multi-classification LSTM model I tried yesterday on the Omdena challenge PTSD dataset, the results were quite weird so I am thinking about redefining the structure of the dataset. Any suggestions are welcome 🙏 
+    - I tried training the same data using a pre-trained BERT model and it gave pretty good results (thinking about understanding BERT more deeply)
+    - I finished week 1 and started week 2 of the TensorFlow course from Coursera of Andrew NG, it's pretty smooth and quite beginner-friendly: 
+[The course](https://www.coursera.org/learn/introduction-tensorflow/lecture/AIkt8/using-callbacks-to-control-training)   
       
 ## Dependencies
 
