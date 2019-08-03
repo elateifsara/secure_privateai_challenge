@@ -113,7 +113,10 @@ Multi-class classification for NLP:
     - I trained the multi-classification LSTM model I tried yesterday on the Omdena challenge PTSD dataset, the results were quite weird so I am thinking about redefining the structure of the dataset. Any suggestions are welcome 🙏 
     - I tried training the same data using a pre-trained BERT model and it gave pretty good results (thinking about understanding BERT more deeply)
     - I finished week 1 and started week 2 of the TensorFlow course from Coursera of Andrew NG, it's pretty smooth and quite beginner-friendly: 
-[The course](https://www.coursera.org/learn/introduction-tensorflow/lecture/AIkt8/using-callbacks-to-control-training)   
+[The course](https://www.coursera.org/learn/introduction-tensorflow/lecture/AIkt8/using-callbacks-to-control-training)
+### Day 34:
+    - Worked on understanding how the BERT model works: https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
+    - Applied to some job opportunities shared in #jobs channel which I would like to thank.
       
 ## Dependencies
 
