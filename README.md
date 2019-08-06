@@ -114,10 +114,20 @@ Multi-class classification for NLP:
     - I tried training the same data using a pre-trained BERT model and it gave pretty good results (thinking about understanding BERT more deeply)
     - I finished week 1 and started week 2 of the TensorFlow course from Coursera of Andrew NG, it's pretty smooth and quite beginner-friendly: 
 [The course](https://www.coursera.org/learn/introduction-tensorflow/lecture/AIkt8/using-callbacks-to-control-training)
-### Day 34:
+### Day 34
     - Worked on understanding how the BERT model works: https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
     - Applied to some job opportunities shared in #jobs channel which I would like to thank.
-      
+### Day 35
+    - Studied the three notebooks of the 4th lesson from fastai course v3.
+### Day 36
+    - Exploring how AI can help in the legal field (any suggestions on how to make the process faster)
+### Day 37
+    - Going to BERT but this time reading the article to understand the implementation: 
+    - Began the Data Structures course from Udacity, I am thinking about brushing on the algorithms concepts basics in English (I studied it in French). 
+https://towardsdatascience.com/bert-classifier-just-another-pytorch-model-881b3cf05784
+https://github.com/sugi-chan/custom_bert_pipeline/blob/master/IMDB%20Dataset.csv
+https://classroom.udacity.com/courses/ud513/lessons/7174469398/concepts/78885717720923
+
 ## Dependencies
 
 To run these notebooks you'll need to install Python 3.6, PySyft, Numpy, PyTorch 1.0, and Jupyter Notebooks. The easiest way for all of this is to create a conda environment:
