@@ -128,7 +128,7 @@ https://towardsdatascience.com/bert-classifier-just-another-pytorch-model-881b3c
 https://github.com/sugi-chan/custom_bert_pipeline/blob/master/IMDB%20Dataset.csv
 https://classroom.udacity.com/courses/ud513/lessons/7174469398/concepts/78885717720923
 ### Day 38
-    - Completed week 3 of DL from Deeplearningai course in coursera.
+    - Completed week 2 of DL from Deeplearningai course in coursera.
     - Checked this article on how we can fine tune an ML model on AI conversational chatbots
     - I am thinking about deploying ML models as mobile apps so I thought about checking Flutter but for IOS it’s really a hassle especially with the  apple development id. 
 [Flutter](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/index.html?index=..%2F..index#0) .  
