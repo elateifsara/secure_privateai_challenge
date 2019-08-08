@@ -133,7 +133,11 @@ https://classroom.udacity.com/courses/ud513/lessons/7174469398/concepts/78885717
     - I am thinking about deploying ML models as mobile apps so I thought about checking Flutter but for IOS it’s really a hassle especially with the  apple development id. 
 [Flutter](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/index.html?index=..%2F..index#0) .  
 [AI-scholar-chatbots-that-improve-after-deployment](https://towardsdatascience.com/ai-scholar-chatbots-that-improve-after-deployment-deaef4f91379)
-
+### Day 39
+    - Checked the AWS DeepRacer course and finished lesson 1 and started lesson 2.
+    - Finished week 2 of the Tensorflow 1 course specialization in Coursera by Andrew.
+    - Still working on setting up flutter for IOS : https://www.youtube.com/watch?v=3oIFshgMgLA
+    - Stopped at efficiency in the Data Structures course from Udacity.
 
 ## Dependencies
 
