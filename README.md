@@ -139,6 +139,16 @@ https://classroom.udacity.com/courses/ud513/lessons/7174469398/concepts/78885717
     - Still working on setting up flutter for IOS : https://www.youtube.com/watch?v=3oIFshgMgLA
     - Stopped at efficiency in the Data Structures course from Udacity.
 
+These days I have been focusing on advancing on the TF course in Coursera (and making truffles for Eid)
+### Day 40
+    - Implementing convolution layers
+### Day 41
+    - Implementing pooling layers 
+### Day 42 
+    - Implementing using numpy and scipy the convolution network from scratch and understanding how it works.
+### Day 43
+    - Implementing what I learned all along by applying it on MNIST (has been learning how it works using FashionMNIST)
+
 ## Dependencies
 
 To run these notebooks you'll need to install Python 3.6, PySyft, Numpy, PyTorch 1.0, and Jupyter Notebooks. The easiest way for all of this is to create a conda environment:
