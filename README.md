@@ -148,7 +148,11 @@ These days I have been focusing on advancing on the TF course in Coursera (and m
     - Implementing using numpy and scipy the convolution network from scratch and understanding how it works.
 ### Day 43
     - Implementing what I learned all along by applying it on MNIST (has been learning how it works using FashionMNIST)
-
+### Day 44
+    - Finished the first 5 videos on Neural Networks from the Deep learning AI 1st course from the specialization
+    - I finaly got my first flutter app runing on an IOS simulator (thanks to the following tutorial): https://www.youtube.com/watch?v=H_xusHxICbk
+    - Completed this tutorial as well (it’s fun): https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/index.html?index=..%2F..index#5
+    
 ## Dependencies
 
 To run these notebooks you'll need to install Python 3.6, PySyft, Numpy, PyTorch 1.0, and Jupyter Notebooks. The easiest way for all of this is to create a conda environment:
