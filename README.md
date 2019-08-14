@@ -149,10 +149,13 @@ These days I have been focusing on advancing on the TF course in Coursera (and m
 ### Day 43
     - Implementing what I learned all along by applying it on MNIST (has been learning how it works using FashionMNIST)
 ### Day 44
-    - Finished the first 5 videos on Neural Networks from the Deep learning AI 1st course from the specialization
+    - Finished the first 5 videos of week 3 on Neural Networks from the Deep learning AI 1st course from the specialization
     - I finaly got my first flutter app runing on an IOS simulator (thanks to the following tutorial): https://www.youtube.com/watch?v=H_xusHxICbk
     - Completed this tutorial as well (it’s fun): https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/index.html?index=..%2F..index#5
-    
+### Day 45
+    - Gone through the 3rd and 4th part in lesson 3 of AWS DeepRacer (but still need to activate my AWS account)
+    - I watched the first parts about Image Generators of week 4 of Tensorflow in Coursera.
+
 ## Dependencies
 
 To run these notebooks you'll need to install Python 3.6, PySyft, Numpy, PyTorch 1.0, and Jupyter Notebooks. The easiest way for all of this is to create a conda environment:
