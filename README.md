@@ -155,6 +155,8 @@ These days I have been focusing on advancing on the TF course in Coursera (and m
 ### Day 45
     - Gone through the 3rd and 4th part in lesson 3 of AWS DeepRacer (but still need to activate my AWS account)
     - I watched the first parts about Image Generators of week 4 of Tensorflow in Coursera.
+### Day 46
+    - Completed the lessons and quiz of week 3 of the deeplearning.ai 1st course of the DL specialization.
 
 ## Dependencies
 
