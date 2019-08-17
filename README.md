@@ -157,6 +157,11 @@ These days I have been focusing on advancing on the TF course in Coursera (and m
     - I watched the first parts about Image Generators of week 4 of Tensorflow in Coursera.
 ### Day 46
     - Completed the lessons and quiz of week 3 of the deeplearning.ai 1st course of the DL specialization.
+### Day 47
+	- Finished the first lesson of Data Structures & Algorithms (calculating efficiency)
+	- I have gone through the videos and notebooks from the 7th until the 12th of TF course from coursera (that exposes the importance of having a validation set that is separate from the training set).
+### Day 48
+	- Finished week 4 and the 1st specialization of TF course from coursera while exploring the difference in accuracy and training when we change the image size and did the practice exercices where I used all the things I learned throughtout week 4 to create a classifier for a set of happy or sad images.
 
 ## Dependencies
 
