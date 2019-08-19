@@ -162,6 +162,10 @@ These days I have been focusing on advancing on the TF course in Coursera (and m
 	- I have gone through the videos and notebooks from the 7th until the 12th of TF course from coursera (that exposes the importance of having a validation set that is separate from the training set).
 ### Day 48
 	- Finished week 4 and the 1st specialization of TF course from coursera while exploring the difference in accuracy and training when we change the image size and did the practice exercices where I used all the things I learned throughtout week 4 to create a classifier for a set of happy or sad images.
+### Day 49
+	- I have run and did half of the assignments of the notebook : Planar data classification with one hidden layer from the deeplearning.ai course on Coursera.
+### Day 50
+	- I finished the other half of the notebook where I implemented the loss, forward, backward propagation, the gradient descent and gathered all the functions in one function that constructed the model and did the predictions.
 
 ## Dependencies
 
