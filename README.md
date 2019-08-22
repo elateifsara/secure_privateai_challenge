@@ -166,6 +166,14 @@ These days I have been focusing on advancing on the TF course in Coursera (and m
 	- I have run and did half of the assignments of the notebook : Planar data classification with one hidden layer from the deeplearning.ai course on Coursera.
 ### Day 50
 	- I finished the other half of the notebook where I implemented the loss, forward, backward propagation, the gradient descent and gathered all the functions in one function that constructed the model and did the predictions.
+### Day 51
+	- I implemented several machine learning models like : SVM, Random Forest, Logistic Regression... on the fully annotated dataset for the Omdena PTSD Challenge to help us compare the novel methods like BERT and ULMFIT performance with traditional models. 
+	- I reviewed the article I had to write about the challenge which is an introduction to how we can help cure PTSD using AI: https://medium.com/omdena/ai-post-traumatic-stress-disorder-f8917cedb434
+### Day 52
+	- I have gone through half of the concepts in week 1 of 2nd course of TF by deeplearning.ai
+### Day 53
+	- I watched the interview of Andrew NG with Ian Goodfellow.
+	- I finished the remaining lessons from week 1 as well as finished the final exercice that consists of classifying dogs and cats using the whole dataset from microsoft : https://www.coursera.org/learn/convolutional-neural-networks-tensorflow/home/welcome
 
 ## Dependencies
 
