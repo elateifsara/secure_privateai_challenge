@@ -174,6 +174,13 @@ These days I have been focusing on advancing on the TF course in Coursera (and m
 ### Day 53
 	- I watched the interview of Andrew NG with Ian Goodfellow.
 	- I finished the remaining lessons from week 1 as well as finished the final exercice that consists of classifying dogs and cats using the whole dataset from microsoft : https://www.coursera.org/learn/convolutional-neural-networks-tensorflow/home/welcome
+### Day 54
+	- I did the Introduction to Amazon EC2 Auto Scaling lab from qwiklabs
+	- I did all the labs in Cloud Hero Speedrun: IoT & Big Data:
+		- Internet of Things: Qwik Start
+		- Dataflow: Qwik Start - Templates
+		- Streaming IoT Core Data to Dataprep
+		- Building an IoT Analytics Pipeline on Google Cloud Platform
 
 ## Dependencies
 
