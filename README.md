@@ -181,7 +181,9 @@ These days I have been focusing on advancing on the TF course in Coursera (and m
 		- Dataflow: Qwik Start - Templates
 		- Streaming IoT Core Data to Dataprep
 		- Building an IoT Analytics Pipeline on Google Cloud Platform
-
+### Day 55
+	- I watched the first 4 videos on Deep l layers network from deeplearning.ai week 4 1st course
+	
 ## Dependencies
 
 To run these notebooks you'll need to install Python 3.6, PySyft, Numpy, PyTorch 1.0, and Jupyter Notebooks. The easiest way for all of this is to create a conda environment:
