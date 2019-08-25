@@ -183,6 +183,8 @@ These days I have been focusing on advancing on the TF course in Coursera (and m
 		- Building an IoT Analytics Pipeline on Google Cloud Platform
 ### Day 55
 	- I watched the first 4 videos on Deep l layers network from deeplearning.ai week 4 1st course
+### Day 56
+	- I finished the lessons from the deeplearning.ai specialization course week 4 1st course.
 	
 ## Dependencies
 
