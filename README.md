@@ -185,6 +185,8 @@ These days I have been focusing on advancing on the TF course in Coursera (and m
 	- I watched the first 4 videos on Deep l layers network from deeplearning.ai week 4 1st course
 ### Day 56
 	- I finished the lessons from the deeplearning.ai specialization course week 4 1st course.
+### Day 57
+	- I have gone through the lessons of week 2 and did the final exercise of classification using Augmentation techniques from the Convolutional Neural Networks in TensorFlow course in Coursera.
 	
 ## Dependencies
 
