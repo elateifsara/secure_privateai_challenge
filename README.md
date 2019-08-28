@@ -187,6 +187,15 @@ These days I have been focusing on advancing on the TF course in Coursera (and m
 	- I finished the lessons from the deeplearning.ai specialization course week 4 1st course.
 ### Day 57
 	- I have gone through the lessons of week 2 and did the final exercise of classification using Augmentation techniques from the Convolutional Neural Networks in TensorFlow course in Coursera.
+### Day 58
+	- I studied all the lesson videos on Transfer Learning, and how to take an existing model, freeze many of its layers to prevent them being retrained, and effectively 'remember' the convolutions it was trained on to fit images.
+	How to add a DNN underneath this so that we could retrain on our images using the convolutions from the other model.
+	- As well as learned regularization using dropouts to make the network more efficient in preventing over-specialization and this overfitting.
+	From the Convolutional Neural Networks in TensorFlow course in Coursera.
+	
+### Day 59
+	- I applied all that I learned in the previous videos to improve the accuracy of classifying Horses vs Humans.
+	
 	
 ## Dependencies
 
