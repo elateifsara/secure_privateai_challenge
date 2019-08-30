@@ -195,7 +195,9 @@ These days I have been focusing on advancing on the TF course in Coursera (and m
 	
 ### Day 59
 	- I applied all that I learned in the previous videos to improve the accuracy of classifying Horses vs Humans.
-	
+### Day 60
+	- I completed Convolutional Neural Networks in TensorFlow course from Coursera course by finishing all the 4th week lessons about Multi-Class classification by applying what I learned to a CGI (Computer Graphic Images) generated dataset of rock, paper, scissors with different skin tones and nail polish: http://www.laurencemoroney.com/rock-paper-scissors-dataset/
+	- I did the final project that classifies hand signs using the 'Sign Language MNIST' dataset from kaggle: https://www.kaggle.com/datamunge/sign-language-mnist/kernels
 	
 ## Dependencies
 
